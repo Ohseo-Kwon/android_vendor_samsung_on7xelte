@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/on7xelte/proprietary/vendor/etc/wifi/bcmdhd_sta.bin_3s:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin_3s \
     vendor/samsung/on7xelte/proprietary/vendor/etc/wifi/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt \
     vendor/samsung/on7xelte/proprietary/vendor/etc/wifi/nvram.txt_3s:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt_3s \
+    vendor/samsung/on7xelte/proprietary/vendor/firmware/bcm43438A1_V0068.0286.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4343A0_V0078.0278.hcd \
     vendor/samsung/on7xelte/proprietary/vendor/firmware/bcm43438A1_V0068.0286.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438A1_V0068.0286.hcd \
     vendor/samsung/on7xelte/proprietary/vendor/firmware/fimc_is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib.bin \
     vendor/samsung/on7xelte/proprietary/vendor/firmware/setfile_4h5yc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_4h5yc.bin \
